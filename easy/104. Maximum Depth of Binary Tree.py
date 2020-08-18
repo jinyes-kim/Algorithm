@@ -16,7 +16,7 @@ class Solution:
             return answer
         else:
             answer += max(self.maxDepth(root.left), self.maxDepth(root.right))
-            print(answer)
+
         return answer
 
 
