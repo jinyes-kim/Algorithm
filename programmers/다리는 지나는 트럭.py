@@ -41,7 +41,7 @@ def solution(bridge_length, weight, truck_weights):
 2-1. 버틸 수 있다면 drivig_truck_list 에 추가
 2-2. 버틸 수 없다면 패스
 3. driving_truck_list에 있는 트럭들의 시간을 --
-4. 만약 driving_truck_list에 있는 요소의 시간이 0이 되면 큐잉, 해당 원소를 checker_weight에서 빼서 무게 업데이트
+4. 만약 driving_truck_list에 있는 첫 번째 요소의 시간이 0이 되면 큐잉, 해당 원소를 checker_weight에서 빼서 무게 업데이트
 5. 위 과정을 반복하면서 만약 driving_truck_list에 아무 것도 없게되면 연산을 종료 
 
 """
