@@ -129,7 +129,7 @@ pprint(kruskal(test_graph))
 시간복잡도 O(E log E)
 
 O(V) - make-set
-O(E log E) - sort the edge
+O(E log E) - sort the edge ✔
 O(E) - for each node 
 
 """
