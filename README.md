@@ -10,3 +10,7 @@
 
 # programmers - high score toolkit
 - https://programmers.co.kr/learn/challenges
+
+
+# codility
+- https://app.codility.com/programmers/lessons/1-iterations/
